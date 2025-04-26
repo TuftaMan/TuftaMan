@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there! I'm Nikita Averkin👋
 
-<!--
-**TuftaMan/TuftaMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer focused on building Telegram bots using **aiogram 3** 🚀
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack:
+- Python 3.12
+- Aiogram 3
+- SQLAlchemy
+- SQLite / PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### 📫 How to reach me:
+- Telegram: @ToxicMaaan (https://t.me/ToxicMaaan)
+- Email: awerk1n2000@mail.ru
+
+---
+
+Thanks for visiting my profile! 🌟
