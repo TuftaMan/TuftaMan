@@ -1,17 +1,41 @@
-### Hi there! I'm Nikita Averkin👋
+# Привет! Я Никита 👋  
+Hi there! I'm Nikita 👋
 
-I'm a Python developer focused on building Telegram bots using **aiogram 3** 🚀
+🎯 Python-разработчик из России | Telegram-боты и нейросети  
+🎯 Python developer from Russia | Telegram bots & neural networks
 
-# 🚀 Tech Stack:
-- Python 3.12
-- Aiogram 3
-- SQLAlchemy
-- SQLite / PostgreSQL
+---
 
-# 📫 How to reach me:
-- Telegram: @ToxicMaaan (https://t.me/ToxicMaaan)
+## 🛠️ Стек / Tech Stack
+
+- 💬 Python, aiogram 3, FastAPI  
+- 📊 Pandas, NumPy, Matplotlib  
+- 🧠 PyTorch (начальный уровень / start lvl)  
+- 🗃️ SQLite, PostgreSQL 
+- ⚙️ Git, PyCharm, Linux
+
+---
+
+## 💼 Проекты / Projects
+
+### 🤖 [Tufta Bot – Telegram бот для ковров](https://github.com/ToxicMaaan/tufta-bot)  
+> Бот помогает пользователю заказать кастомный тафтинговый ковер: поддержка FSM, SQLite, systemd.  
+> A Telegram bot for ordering custom tufted carpets: FSM logic, SQLite database, systemd integration.
+
+**Стек / Tech stack:** `Python`, `aiogram`, `FSM`, `SQLite`, `systemd`
+
+---
+
+## 📫 Контакты / Contacts
+
+- Telegram: [@ToxicMaaan](https://t.me/ToxicMaaan)  
 - Email: awerk1n2000@mail.ru
 
 ---
 
-Thanks for visiting my profile! 🌟
+## 📌 О себе / About Me
+
+Я обучаюсь на разработчика нейросетей, делаю pet-проекты для портфолио и автоматизации задач.  
+I'm studying neural network development and creating pet projects for automation and portfolio.
+
+---
