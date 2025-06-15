@@ -18,7 +18,7 @@ Hi there! I'm Nikita 👋
 
 ## 💼 Проекты / Projects
 
-### 🤖 [Tuftarator – Telegram бот для ковров](https://github.com/ToxicMaaan/Tuftarator)  
+### 🤖 [Tuftarator – Telegram бот для ковров](https://github.com/TuftaMan/Tuftarator)  
 > Бот помогает пользователю заказать кастомный тафтинговый ковер: поддержка FSM, SQLite, systemd.  
 > A Telegram bot for ordering custom tufted carpets: FSM logic, SQLite database, systemd integration.
 
