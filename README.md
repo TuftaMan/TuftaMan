@@ -9,7 +9,7 @@ Hi there! I'm Nikita 👋
 ## 🛠️ Стек / Tech Stack
 
 - 💬 Python, aiogram 3, FastAPI  
-- 📊 Pandas, NumPy, Matplotlib  
+- 📊 Pandas, NumPy, Matplotlib, scikit-learn
 - 🧠 PyTorch (начальный уровень / start lvl)  
 - 🗃️ SQLite, PostgreSQL 
 - ⚙️ Git, PyCharm, Linux
