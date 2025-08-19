@@ -1,16 +1,16 @@
 # Привет! Я Никита 👋  
 
-🎯 Python-разработчик из России | Telegram-боты и нейросети  
+🎯 Python-разработчик | Telegram-боты и ML/AI
 
 ---
 
-## 🛠️ Стек 
+## 🛠️ Технологический стек
 
-- 💬 Python, aiogram 3, FastAPI  
-- 📊 Pandas, NumPy, Matplotlib, scikit-learn
-- 🧠 PyTorch, Keras
+- 💻 Backend: Python, FastAPI, aiogram 3
+- 📊 Data Science / ML: Pandas, NumPy, Matplotlib, scikit-learn, PyTorch, Keras
+- 🗄️ Базы данных: SQLite, PostgreSQL
 - 🗃️ SQLite, PostgreSQL
-- ⚙️ Git, PyCharm, Linux
+- ⚙️ Инструменты: Git, Linux, PyCharm
 
 ---
 
@@ -60,6 +60,6 @@
 
 ## 📌 О себе 
 
-Я обучаюсь на разработчика нейросетей, делаю pet-проекты для портфолио и автоматизации задач.  
+Я развиваюсь как Python-разработчик с фокусом на Telegram-ботов и машинное обучение. Делаю pet-проекты для портфолио и практической автоматизации. Сейчас обучаюсь в The Founder "Академия нейросетей".
 
 ---
