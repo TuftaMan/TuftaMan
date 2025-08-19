@@ -16,12 +16,12 @@
 
 ## 💼 Проекты 
 
-### 🤖 [Tuftarator – Telegram бот для ковров](https://github.com/TuftaMan/Babrbot)  
+### 🤖 [Tuftarator – Telegram бот для ковров](https://github.com/TuftaMan/Tuftarator)  
 > Бот помогает пользователю заказать кастомный тафтинговый ковер: поддержка FSM, SQLite, systemd.  
 
 **Стек:** `Python`, `aiogram`, `FSM`, `SQLite`, `systemd`
 
-### 🤖 [Babrbot – Telegram бот гид по Иркутску](https://github.com/TuftaMan/Tuftarator)  
+### 🤖 [Babrbot – Telegram бот гид по Иркутску](https://github.com/TuftaMan/Babrbot)  
 > Бот помогает находить заведения, достопримечательности и интересные факты о городе с помощью GPT и базы знаний.
 
 **Стек:** `Python`, `aiogram 3`, `FSM`, `SQLite`, `OpenAI API`, `Pandas`, `NumPy`, `tiktoken`
