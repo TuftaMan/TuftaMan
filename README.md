@@ -6,7 +6,7 @@
 
 ## 🛠️ Технологический стек
 
-- 💻 Backend: Python, FastAPI, aiogram 3
+- 💻 Backend: Python, aiogram 3
 - 📊 Data Science / ML: Pandas, NumPy, Matplotlib, scikit-learn, PyTorch, Keras
 - 🗄️ Базы данных: SQLite, PostgreSQL
 - 🗃️ SQLite, PostgreSQL
