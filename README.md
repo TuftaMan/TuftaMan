@@ -1,65 +1,147 @@
 # Привет! Я Никита 👋  
 
-🎯 Python-разработчик | Telegram-боты и ML/AI
+🎯 Python / Backend разработчик  
+💬 Telegram-боты • Web (Django) • ML / Data Science  
+
+Делаю прикладные проекты: боты, сайты, автоматизация.  
+Работаю с продакшеном, деплоем и реальными бизнес-кейсами.
 
 ---
 
 ## 🛠️ Технологический стек
 
-- 💻 Backend: Python, aiogram 3
-- 📊 Data Science / ML: Pandas, NumPy, Matplotlib, scikit-learn, PyTorch, Keras
-- 🗄️ Базы данных: SQLite, PostgreSQL
-- 🗃️ SQLite, PostgreSQL
-- ⚙️ Инструменты: Git, Linux, PyCharm
+**Backend**
+- Python 3.10+
+- Django
+- aiogram 3
+- SQLAlchemy (async)
+
+**Frontend**
+- Django Templates
+- Tailwind CSS
+- HTMX
+- JavaScript (база)
+
+**Data / ML**
+- Pandas, NumPy
+- scikit-learn
+- Matplotlib
+- PyTorch, Keras (база)
+
+**Базы данных**
+- PostgreSQL
+- SQLite
+
+**Инфраструктура**
+- Docker
+- Linux
+- systemd
+- Git
 
 ---
 
-## 💼 Проекты 
+## 🚀 Основные проекты
 
-### 🤖 [Tuftarator – Telegram бот для ковров](https://github.com/TuftaMan/Tuftarator)  
-> Бот помогает пользователю заказать кастомный тафтинговый ковер: поддержка FSM, SQLite, systemd.  
+### 🪵 [DriftWood — интернет-магазин изделий из дерева](https://github.com/TuftaMan/shop)
+👉 https://driftwoodbrand.ru  
 
-**Стек:** `Python`, `aiogram`, `FSM`, `SQLite`, `systemd`
+Полноценный интернет-магазин, разработанный под реальный бизнес.  
+Каталог, корзина, заказы, трекинг, админка и Telegram-уведомления.
 
-### 🤖 [Babrbot – Telegram бот гид по Иркутску](https://github.com/TuftaMan/Babrbot)  
-> Бот помогает находить заведения, достопримечательности и интересные факты о городе с помощью GPT и базы знаний.
+**Что реализовано:**
+- Каталог товаров и категории
+- Корзина на сессиях (работает без авторизации)
+- Оформление заказа с аккаунтом и без
+- История и трекинг заказов по номеру
+- Статусы заказов
+- Уведомления о новых заказах в Telegram
+- Django Admin для управления магазином
 
-**Стек:** `Python`, `aiogram 3`, `FSM`, `SQLite`, `OpenAI API`, `Pandas`, `NumPy`, `tiktoken`
+**Технические особенности:**
+- Django + HTMX вместо SPA
+- Partial-шаблоны для динамики без перезагрузок
+- PostgreSQL
+- Docker + SSL в production
 
----
-
-## 💼 Учебные проекты  
-
-### 🧠 [Классификация болезни Паркинсона](https://github.com/TuftaMan/parkinsons-classifier)  
-Модель машинного обучения для диагностики болезни Паркинсона на основе акустических биомаркеров.  
-
-**Стек:** `Python`, `scikit-learn`, `NumPy`, `Pandas`, `Matplotlib`
-
----
-
-### 📰 [Классификатор фейковых новостей](https://github.com/TuftaMan/Fake_News_Classifier)  
-Классификация новостей на настоящие (REAL) и фейковые (FAKE) с помощью методов машинного обучения.  
-
-**Стек:** `Python`, `scikit-learn`, `Pandas`
+**Стек:**  
+`Python` · `Django` · `HTMX` · `Tailwind CSS` · `PostgreSQL` · `Docker`
 
 ---
 
-### ❓ [Классификатор вопросов франшизы](https://github.com/TuftaMan/Franchise_classifier)  
-Классификация вопросов по категориям и поиск релевантных ответов с помощью ML и семантического поиска.  
+### 🤖 [Шаги к себе — Telegram-бот для психолога](https://github.com/TuftaMan/psybot)
+👉 https://t.me/steps_to_self_bot  
 
-**Стек:** `Python`, `scikit-learn`, `sentence-transformers`
+Бот для автоматизации работы психолога и поддержки клиентов между сессиями.
+
+**Функциональность:**
+- Скрининговый тест PHQ-4 (без диагностики)
+- Практики самоподдержки (дыхание, арт)
+- Запись на консультацию через FSM
+- Обратная связь через Telegram
+- Корректная обработка диалогов и состояний
+
+**Архитектура:**
+- Модульная структура
+- FSM для диалогов
+- Async ORM
+
+**Стек:**  
+`Python` · `aiogram 3` · `FSM` · `SQLAlchemy (async)` · `SQLite`
 
 ---
 
-## 📫 Контакты 
+### 🤖 [Tuftarator — Telegram-бот для заказа ковров](https://github.com/TuftaMan/Tuftarator)
+👉 https://t.me/tuftarator_bot
 
-- Telegram: [@ToxicMaaan](https://t.me/ToxicMaaan)  
+Telegram-бот для магазина кастомных тафтинговых ковров Tufta.
+
+**Функциональность:**
+- Пошаговое оформление заказа (FSM)
+- Просмотр каталога и FAQ
+- Хранение заявок в SQLite
+- Автозапуск через systemd на сервере
+- Поддержка автопостинга
+
+**Стек:**  
+`Python` · `aiogram 3` · `FSM` · `SQLite` · `systemd`
+
+---
+
+## 📚 Учебные и ML-проекты
+
+### 🧠 [Классификация болезни Паркинсона](https://github.com/TuftaMan/parkinsons-classifier)
+ML-модель для определения болезни Паркинсона по акустическим признакам.
+
+**Стек:**  
+`Python` · `scikit-learn` · `Pandas` · `NumPy` · `Matplotlib`
+
+---
+
+### 📰 [Классификатор фейковых новостей](https://github.com/TuftaMan/Fake_News_Classifier)
+Определение REAL / FAKE новостей с помощью классических ML-алгоритмов.
+
+**Стек:**  
+`Python` · `scikit-learn` · `Pandas`
+
+---
+
+### ❓ [Классификатор вопросов франшизы](https://github.com/TuftaMan/Franchise_classifier)
+Классификация пользовательских вопросов и поиск релевантных ответов.
+
+**Стек:**  
+`Python` · `scikit-learn` · `sentence-transformers`
+
+---
+
+## 📫 Контакты
+
+- Telegram: [@ToxicMaaan](https://t.me/ToxicMaaan)
 - Email: awerk1n2000@mail.ru
 
 ---
 
-## 📌 О себе 
+## 📌 Коротко о себе
 
-Я развиваюсь как Python-разработчик с фокусом на Telegram-ботов и машинное обучение. Делаю pet-проекты для портфолио и практической автоматизации. Сейчас обучаюсь в The Founder "Академия нейросетей".
-
----
+Развиваюсь как Python-разработчик с упором на backend и Telegram-ботов.  
+Делаю проекты, которые можно реально использовать, а не «для галочки».  
+Сейчас обучаюсь в *The Founder — Академия нейросетей* и прокачиваю ML-направление.
