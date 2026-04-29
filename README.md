@@ -1,6 +1,6 @@
 # Привет! Я Никита 👋  
 
-🎯 Python / Backend разработчик  
+🎯 Python Backend / ML Engineer  
 💬 Telegram-боты • Web (Django) • ML / Data Science  
 
 Делаю прикладные проекты: боты, сайты, автоматизация.  
@@ -22,11 +22,13 @@
 - HTMX
 - JavaScript (база)
 
-**Data / ML**
+**ML / Data Science**
 - Pandas, NumPy
 - scikit-learn
-- Matplotlib
-- PyTorch, Keras (база)
+- PyTorch / Keras
+- NLP (TF-IDF, embeddings, transformers)
+- Computer Vision (база)
+- Reinforcement Learning (база)
 
 **Базы данных**
 - PostgreSQL
@@ -133,6 +135,8 @@ ML-модель для определения болезни Паркинсон�
 
 ---
 
+
+
 ## 📫 Контакты
 
 - Telegram: [@ToxicMaaan](https://t.me/ToxicMaaan)
@@ -143,5 +147,4 @@ ML-модель для определения болезни Паркинсон�
 ## 📌 Коротко о себе
 
 Развиваюсь как Python-разработчик с упором на backend и Telegram-ботов.  
-Делаю проекты, которые можно реально использовать, а не «для галочки».  
 Сейчас обучаюсь в *The Founder — Академия нейросетей* и прокачиваю ML-направление.
